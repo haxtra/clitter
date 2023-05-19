@@ -1,0 +1,24 @@
+{
+  "name": "clitter",
+  "version": "0.5.0",
+  "description": "Power armor for command line applications",
+  "homepage": "https://github.com/haxtra/clitter",
+  "repository": "github:haxtra/clitter",
+  "main": "index.js",
+  "scripts": {
+    "demo": "node test.js demo"
+  },
+  "keywords": [
+    "app",
+    "cli",
+    "cli-app",
+    "command-based",
+    "commander",
+    "minimist"
+  ],
+  "dependencies": {
+    "minimist": "^1.2.8"
+  },
+  "author": "Hax <hax@haxtra.com>",
+  "license": "MIT"
+}
